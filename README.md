@@ -1,2 +1,2 @@
 # HR-ANALYTICS-DASHBOARD
-Creating HR Analytics Dashboard Using Tableau
+Analyzed data and created a Hr analytics dashboard using different graphs.
